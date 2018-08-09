@@ -1,0 +1,6 @@
+#test
+dir1/
+
+#test2
+*.class
+*.pyo
