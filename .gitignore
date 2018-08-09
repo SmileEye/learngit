@@ -1,6 +1,8 @@
-#test
-dir1/
+#java
+.class
 
-#test2
-*.class
+#python
 *.pyo
+
+#mysql
+*.ini
